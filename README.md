@@ -24,4 +24,5 @@ Parsing and analysing data from gismeteo
 # Result:
 ### The result of these files is the file results_part2.xslx in which the data and graphs of the urban weather analyses are displayed on several tabs. The last tab in the file is the output of the result of the data analysis, which generally coincides with the hypothesis and reflects the characteristic features of each region. 
 
-## Speaking about the future of the project, we can say with certainty that it is definitely possible to develop this project. For example, the most obvious extension is to include more cities in the analysis. Moreover, in the future it will be possible to divide cities into specific regions or areas to which they belong and analyse weather climate changes in each region separately, which could be useful for farming and various agro crops. 
+# Future
+### Speaking about the future of the project, we can say with certainty that it is definitely possible to develop this project. For example, the most obvious extension is to include more cities in the analysis. Moreover, in the future it will be possible to divide cities into specific regions or areas to which they belong and analyse weather climate changes in each region separately, which could be useful for farming and various agro crops. 
